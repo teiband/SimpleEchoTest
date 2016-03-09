@@ -1,1 +1,1 @@
-Arduino Code to echo a character over the serial port
+Arduino code to echo a character over the serial port
